@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './components/Header';
 import Intro from './components/Into'
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -8,6 +9,7 @@ const App = () => {
       <Header />
       <Intro/>
 
+      <Footer />
     </div>
   )
 }
