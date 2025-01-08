@@ -8,8 +8,7 @@ const App = () => {
     <div className='h-[100vh] w-full bg-theme-primary text-gray-300'>
       <Header />
       <Intro/>
-
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
